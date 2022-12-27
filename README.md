@@ -3,6 +3,7 @@
 <p align="center">
   <img alt="Logo do projeto" width="150px" src="https://pedroguedess.github.io/aluraplus/img/Logo.png" />
 </p>
+<br/>
 ## **🚀 OBJETIVO**
 
 Criar uma landing page da plataforma Alura+
