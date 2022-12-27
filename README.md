@@ -6,7 +6,7 @@
 ## **🚀 OBJETIVO**
 
 Criar uma landing page da plataforma Alura+
-##🔨Deploy
+## **🔨Deploy**
 
 
 > [GitHub Pages.](https://pedroguedess.github.io/aluraplus/)
